@@ -5,7 +5,7 @@ The app offers a clean and intuitive user interfaces. Users can send text messag
 
 One of the key features of Flash Chat is its use of Firebase as the backend. Firebase offers a wide range of features, including real-time data synchronization, user authentication, and cloud storage, which make it an ideal choice for building chat applications. The app also leverages Firebase Cloud Messaging to enable push notifications and keep users up-to-date on new messages.
 
-![image](https://user-images.githubusercontent.com/91030529/230415123-c125b964-8b4c-4820-8682-0c988143199e.png)  &nbsp  ![image](https://user-images.githubusercontent.com/91030529/230416329-f1ef7838-99e0-4e3c-9434-c0f917e10b0e.png)
+![image](https://user-images.githubusercontent.com/91030529/230415123-c125b964-8b4c-4820-8682-0c988143199e.png)  ...........  ![image](https://user-images.githubusercontent.com/91030529/230416329-f1ef7838-99e0-4e3c-9434-c0f917e10b0e.png)
 
 
 
