@@ -1,2 +1,2 @@
-# Flah_chat_app
+# Flash_chat_app
 A simple Flutter App
