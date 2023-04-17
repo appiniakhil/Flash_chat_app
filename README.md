@@ -18,7 +18,7 @@ One of the key features of Flash Chat is its use of Firebase as the backend. Fir
 ### Chat Screen
 
 
-![image](https://user-images.githubusercontent.com/91030529/230415123-c125b964-8b4c-4820-8682-0c988143199e.png)  .................... ![image](https://user-images.githubusercontent.com/91030529/230416329-f1ef7838-99e0-4e3c-9434-c0f917e10b0e.png)
+![image](https://user-images.githubusercontent.com/91030529/230415123-c125b964-8b4c-4820-8682-0c988143199e.png)  .................. ![image](https://user-images.githubusercontent.com/91030529/230416329-f1ef7838-99e0-4e3c-9434-c0f917e10b0e.png)
 
 
 Overall, Flash Chat is a well-designed and reliable messaging app that offers a seamless user experience. Its use of Flutter and Firebase makes it a powerful tool for building chat applications for both Android and iOS devices.
